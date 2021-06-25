@@ -1,0 +1,13 @@
+C:\Users\Paulo\source\repos\CalculadoraPosFixada\CalculadoraPosFixada\bin\Debug\netcoreapp3.1\CalculadoraPosFixada.exe
+C:\Users\Paulo\source\repos\CalculadoraPosFixada\CalculadoraPosFixada\bin\Debug\netcoreapp3.1\CalculadoraPosFixada.deps.json
+C:\Users\Paulo\source\repos\CalculadoraPosFixada\CalculadoraPosFixada\bin\Debug\netcoreapp3.1\CalculadoraPosFixada.runtimeconfig.json
+C:\Users\Paulo\source\repos\CalculadoraPosFixada\CalculadoraPosFixada\bin\Debug\netcoreapp3.1\CalculadoraPosFixada.runtimeconfig.dev.json
+C:\Users\Paulo\source\repos\CalculadoraPosFixada\CalculadoraPosFixada\bin\Debug\netcoreapp3.1\CalculadoraPosFixada.dll
+C:\Users\Paulo\source\repos\CalculadoraPosFixada\CalculadoraPosFixada\bin\Debug\netcoreapp3.1\CalculadoraPosFixada.pdb
+C:\Users\Paulo\source\repos\CalculadoraPosFixada\CalculadoraPosFixada\obj\Debug\netcoreapp3.1\CalculadoraPosFixada.csproj.AssemblyReference.cache
+C:\Users\Paulo\source\repos\CalculadoraPosFixada\CalculadoraPosFixada\obj\Debug\netcoreapp3.1\CalculadoraPosFixada.AssemblyInfoInputs.cache
+C:\Users\Paulo\source\repos\CalculadoraPosFixada\CalculadoraPosFixada\obj\Debug\netcoreapp3.1\CalculadoraPosFixada.AssemblyInfo.cs
+C:\Users\Paulo\source\repos\CalculadoraPosFixada\CalculadoraPosFixada\obj\Debug\netcoreapp3.1\CalculadoraPosFixada.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\CalculadoraPosFixada\CalculadoraPosFixada\obj\Debug\netcoreapp3.1\CalculadoraPosFixada.dll
+C:\Users\Paulo\source\repos\CalculadoraPosFixada\CalculadoraPosFixada\obj\Debug\netcoreapp3.1\CalculadoraPosFixada.pdb
+C:\Users\Paulo\source\repos\CalculadoraPosFixada\CalculadoraPosFixada\obj\Debug\netcoreapp3.1\CalculadoraPosFixada.genruntimeconfig.cache
