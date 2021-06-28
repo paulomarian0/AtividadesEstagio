@@ -1,0 +1,13 @@
+C:\Users\Paulo\source\repos\VilaoEletrico\VilaoEletrico\bin\Debug\netcoreapp3.1\VilaoEletrico.exe
+C:\Users\Paulo\source\repos\VilaoEletrico\VilaoEletrico\bin\Debug\netcoreapp3.1\VilaoEletrico.deps.json
+C:\Users\Paulo\source\repos\VilaoEletrico\VilaoEletrico\bin\Debug\netcoreapp3.1\VilaoEletrico.runtimeconfig.json
+C:\Users\Paulo\source\repos\VilaoEletrico\VilaoEletrico\bin\Debug\netcoreapp3.1\VilaoEletrico.runtimeconfig.dev.json
+C:\Users\Paulo\source\repos\VilaoEletrico\VilaoEletrico\bin\Debug\netcoreapp3.1\VilaoEletrico.dll
+C:\Users\Paulo\source\repos\VilaoEletrico\VilaoEletrico\bin\Debug\netcoreapp3.1\VilaoEletrico.pdb
+C:\Users\Paulo\source\repos\VilaoEletrico\VilaoEletrico\obj\Debug\netcoreapp3.1\VilaoEletrico.csproj.AssemblyReference.cache
+C:\Users\Paulo\source\repos\VilaoEletrico\VilaoEletrico\obj\Debug\netcoreapp3.1\VilaoEletrico.AssemblyInfoInputs.cache
+C:\Users\Paulo\source\repos\VilaoEletrico\VilaoEletrico\obj\Debug\netcoreapp3.1\VilaoEletrico.AssemblyInfo.cs
+C:\Users\Paulo\source\repos\VilaoEletrico\VilaoEletrico\obj\Debug\netcoreapp3.1\VilaoEletrico.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\VilaoEletrico\VilaoEletrico\obj\Debug\netcoreapp3.1\VilaoEletrico.dll
+C:\Users\Paulo\source\repos\VilaoEletrico\VilaoEletrico\obj\Debug\netcoreapp3.1\VilaoEletrico.pdb
+C:\Users\Paulo\source\repos\VilaoEletrico\VilaoEletrico\obj\Debug\netcoreapp3.1\VilaoEletrico.genruntimeconfig.cache
