@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Paulo\\source\\repos\\VilaoEletrico\\VilaoEletrico\\VilaoEletrico.csproj": {}
+    "C:\\Users\\Paulo\\Source\\Repos\\AtividadesEstagio\\VilaoEletrico\\VilaoEletrico\\VilaoEletrico.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Paulo\\source\\repos\\VilaoEletrico\\VilaoEletrico\\VilaoEletrico.csproj": {
+    "C:\\Users\\Paulo\\Source\\Repos\\AtividadesEstagio\\VilaoEletrico\\VilaoEletrico\\VilaoEletrico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Paulo\\source\\repos\\VilaoEletrico\\VilaoEletrico\\VilaoEletrico.csproj",
+        "projectUniqueName": "C:\\Users\\Paulo\\Source\\Repos\\AtividadesEstagio\\VilaoEletrico\\VilaoEletrico\\VilaoEletrico.csproj",
         "projectName": "VilaoEletrico",
-        "projectPath": "C:\\Users\\Paulo\\source\\repos\\VilaoEletrico\\VilaoEletrico\\VilaoEletrico.csproj",
+        "projectPath": "C:\\Users\\Paulo\\Source\\Repos\\AtividadesEstagio\\VilaoEletrico\\VilaoEletrico\\VilaoEletrico.csproj",
         "packagesPath": "C:\\Users\\Paulo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Paulo\\source\\repos\\VilaoEletrico\\VilaoEletrico\\obj\\",
+        "outputPath": "C:\\Users\\Paulo\\Source\\Repos\\AtividadesEstagio\\VilaoEletrico\\VilaoEletrico\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
