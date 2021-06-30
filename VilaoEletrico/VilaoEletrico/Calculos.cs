@@ -5,23 +5,8 @@ using System.Text;
 namespace VilaoEletrico
 {
 
-    public interface Ic
-    {
-      double valorTotal { get; set; }
-
-      
-      double sICMS { get; set; }
-
-
-        double sPIS { get; set; }
-
-        double sCOFINS { get; set; }
-
-    }
     public class Calculos
     {
-
-
         public static ObjetoCasa MaiorConsumo(List<ObjetoCasa> ObjetosDaCasa)
         {
             ObjetoCasa maiorConsumo = null;

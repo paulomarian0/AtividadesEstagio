@@ -1,61 +1,23 @@
 ﻿using System;
 using System.Collections.Generic;
 
-// INCOMPLETO
 namespace VilaoEletrico
 {
     class Program
     {
-
         public static void Main(string[] args)
         {
             DadoTarifaEConta dado = new DadoTarifaEConta();
             List<ObjetoCasa> objetosDaCasa = new List<ObjetoCasa>();
 
-            List<string> nome = new List<string>();
-            List<string> local = new List<string>();
-            List<double> consumowatts = new List<double>();
-            List<int> tempo = new List<int>();
-
-            double ValorTotal = 35.20;
+            double ValorTotal = 35.20; // valor da iluminação pública
             double somaICMS = 0;
             double somaPIS = 0;
             double somaCOFINS = 0;
 
-            // CUSTO ILUMINAÇÃO PUBLICA
-            bool cond = true;
-            // FALTA SEPARAR AS CLASSES EM CADA ARQUIVO E ADICIONAR UM RETORNO QUANDO A BANDEIRA FOR INVÁLIDA
-
             bool condicao = true;
 
-            Console.WriteLine("Entre com o valor da tarifa:");
-            dado.ValorTarifa = Convert.ToDouble(Console.ReadLine());
-
-            while (cond == true)
-            {
-                Console.WriteLine("Insira a bandeira tributária do mês (VERDE, AMARELA, VERMELHA1, VERMELHA2:");
-                dado.Bandeira = Console.ReadLine().ToLower();
-
-                if (dado.Bandeira != "vermelha" && dado.Bandeira != "vermelha1" && dado.Bandeira != "vermelha2" && dado.Bandeira != "verde" && dado.Bandeira != "amarela")
-                {
-                    Console.WriteLine("ENTRADA INVÁLIDA");
-
-                    cond = true;
-                }
-                else
-                {
-                    cond = false;
-                }
-            }
-            Console.WriteLine("Entre com o valor do imposto PIS em porcentagem");
-            dado.PIS = Convert.ToDouble(Console.ReadLine());
-
-            Console.WriteLine("Entre com o valor do imposto COFINS em porcentagem");
-            dado.COFINS = Convert.ToDouble(Console.ReadLine());
-
-            Console.WriteLine("Entre com o valor do imposto ICMS em porcentagem");
-            dado.ICMS = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("---------------------");
+            ClasseMenu.Menu(dado);
 
             while (condicao)
             {
@@ -111,7 +73,6 @@ namespace VilaoEletrico
             ObjetoCasa objMaiorT = Calculos.MaiorTempoDeUso(objetosDaCasa);
             ObjetoCasa objMenorT = Calculos.MenorTempoDeUso(objetosDaCasa);
 
-
             foreach (var item in objetosDaCasa)
             {
                 Console.WriteLine("---------------------------------------------");
@@ -120,12 +81,9 @@ namespace VilaoEletrico
                 Console.WriteLine("Consumo do item em Kw/h: {0}", item.ConsumoWatts);
                 Console.WriteLine("Tempo de uso no dia : {0}", item.TempoUsoDia);
                 Console.WriteLine("Bandeira: {0}", dado.Bandeira);
-                // Console.WriteLine("Valor de impostos :{0}", resultadoPIS);
-
             }
 
             Console.WriteLine("---------------------------------------------");
-
             Console.WriteLine("Valor total a se pagar: {0}", Math.Round(ValorTotal, 2));
 
             Console.WriteLine("Valor somado do PIS: {0}", Math.Round(somaPIS, 2));
