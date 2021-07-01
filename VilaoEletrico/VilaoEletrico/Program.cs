@@ -36,8 +36,8 @@ namespace VilaoEletrico
                 double consumov = Convert.ToDouble(Console.ReadLine());
                 objetoCasa.ConsumoWatts = (consumov);
 
-                Console.WriteLine("Entre com o tempo de uso diário do item");
-                int tempov = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Entre com o tempo de uso diário do item EM HORAS");
+                double tempov = Convert.ToDouble(Console.ReadLine());
                 objetoCasa.TempoUsoDia = (tempov);
 
                 objetosDaCasa.Add(objetoCasa);
