@@ -1,0 +1,13 @@
+C:\Users\Paulo\source\repos\VendasEstabelecimento\VendasEstabelecimento\bin\Debug\netcoreapp3.1\VendasEstabelecimento.exe
+C:\Users\Paulo\source\repos\VendasEstabelecimento\VendasEstabelecimento\bin\Debug\netcoreapp3.1\VendasEstabelecimento.deps.json
+C:\Users\Paulo\source\repos\VendasEstabelecimento\VendasEstabelecimento\bin\Debug\netcoreapp3.1\VendasEstabelecimento.runtimeconfig.json
+C:\Users\Paulo\source\repos\VendasEstabelecimento\VendasEstabelecimento\bin\Debug\netcoreapp3.1\VendasEstabelecimento.runtimeconfig.dev.json
+C:\Users\Paulo\source\repos\VendasEstabelecimento\VendasEstabelecimento\bin\Debug\netcoreapp3.1\VendasEstabelecimento.dll
+C:\Users\Paulo\source\repos\VendasEstabelecimento\VendasEstabelecimento\bin\Debug\netcoreapp3.1\VendasEstabelecimento.pdb
+C:\Users\Paulo\source\repos\VendasEstabelecimento\VendasEstabelecimento\obj\Debug\netcoreapp3.1\VendasEstabelecimento.csproj.AssemblyReference.cache
+C:\Users\Paulo\source\repos\VendasEstabelecimento\VendasEstabelecimento\obj\Debug\netcoreapp3.1\VendasEstabelecimento.AssemblyInfoInputs.cache
+C:\Users\Paulo\source\repos\VendasEstabelecimento\VendasEstabelecimento\obj\Debug\netcoreapp3.1\VendasEstabelecimento.AssemblyInfo.cs
+C:\Users\Paulo\source\repos\VendasEstabelecimento\VendasEstabelecimento\obj\Debug\netcoreapp3.1\VendasEstabelecimento.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\VendasEstabelecimento\VendasEstabelecimento\obj\Debug\netcoreapp3.1\VendasEstabelecimento.dll
+C:\Users\Paulo\source\repos\VendasEstabelecimento\VendasEstabelecimento\obj\Debug\netcoreapp3.1\VendasEstabelecimento.pdb
+C:\Users\Paulo\source\repos\VendasEstabelecimento\VendasEstabelecimento\obj\Debug\netcoreapp3.1\VendasEstabelecimento.genruntimeconfig.cache
